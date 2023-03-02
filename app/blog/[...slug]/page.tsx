@@ -1,5 +1,5 @@
-export default async function blogpost() {
+export default async function BlogPost() {
     return <div>
-        <div>Blog Post</div>
+        <div>Contact Page</div>
     </div>
   }
